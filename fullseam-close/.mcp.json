@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fullseam": {
+      "type": "http",
+      "url": "${FULLSEAM_URL:-http://127.0.0.1:8993/api/mcp/}",
+      "headers": {
+        "Authorization": "Bearer ${FULLSEAM_TOKEN}"
+      }
+    }
+  }
+}
