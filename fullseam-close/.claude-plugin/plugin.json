@@ -1,0 +1,8 @@
+{
+  "name": "fullseam-close",
+  "version": "0.1.1",
+  "description": "Work your month-end close tasks from Claude Code. Reads tasks, procedures, prior months and files from FullSeam, and records that an agent did the work.",
+  "author": {
+    "name": "FullSeam"
+  }
+}

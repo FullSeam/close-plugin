@@ -1,0 +1,14 @@
+{
+  "name": "fullseam",
+  "owner": {
+    "name": "FullSeam"
+  },
+  "plugins": [
+    {
+      "name": "fullseam-close",
+      "source": "./fullseam-close",
+      "description": "Work your month-end close tasks from Claude Code. Reads tasks, procedures, prior months and files from FullSeam."
+    }
+  ],
+  "description": "FullSeam's close, reachable from your own Claude."
+}

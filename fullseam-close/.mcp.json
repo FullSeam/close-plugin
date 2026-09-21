@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fullseam": {
+      "type": "http",
+      "url": "${FULLSEAM_URL:-https://close.fullseam.com/api/mcp/}",
+      "headers": {
+        "Authorization": "Bearer ${FULLSEAM_TOKEN}"
+      }
+    }
+  }
+}
