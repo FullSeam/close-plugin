@@ -1,0 +1,14 @@
+{
+  "name": "fullseam",
+  "owner": {
+    "name": "FullSeam"
+  },
+  "plugins": [
+    {
+      "name": "fullseam-close",
+      "source": "./fullseam-close",
+      "description": "Where a FullSeam close stands, and working the tasks in it, from your own Claude."
+    }
+  ],
+  "description": "FullSeam's close, reachable from your own Claude."
+}

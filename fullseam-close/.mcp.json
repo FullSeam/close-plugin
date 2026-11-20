@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fullseam": {
+      "type": "http",
+      "url": "${FULLSEAM_URL:-https://close.fullseam.com/api/mcp/}"
+    }
+  }
+}
