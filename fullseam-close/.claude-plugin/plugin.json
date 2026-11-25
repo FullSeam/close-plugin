@@ -1,0 +1,17 @@
+{
+  "name": "fullseam-close",
+  "displayName": "FullSeam Close",
+  "version": "0.31.0",
+  "description": "Work your books and month-end close in FullSeam from Claude: the checklist, how each piece of work is done, the ledger, the files, and handing work back.",
+  "author": {
+    "name": "FullSeam"
+  },
+  "homepage": "https://fullseam.com",
+  "repository": "https://github.com/FullSeam/close-plugin",
+  "documentationUrl": "https://close.fullseam.com/help/agent/external-chat/",
+  "supportUrl": "mailto:support@fullseam.com",
+  "privacyPolicyUrl": "https://fullseam.com/privacy",
+  "termsOfServiceUrl": "https://fullseam.com/terms",
+  "keywords": ["accounting", "month-end close", "reconciliations", "flux", "finance"],
+  "license": "MIT"
+}
